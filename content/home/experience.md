@@ -25,8 +25,8 @@ experience:
   - title: Clinical Data Quality Analyst
     company: Causaly
     company_url: ''
-    company_logo: causaly_logo_400x400
-    location: London (remote)
+    company_logo: causaly_logo_400x400.png
+    location: London, UK (remote)
     date_start: '2021-03-01'
     date_end: ''
     description: |2-
@@ -34,15 +34,15 @@ experience:
         
         * Automating QA processes
         * Providing feedback for NLP models outputs
-        * Creating gold standards for precision/recall eval
+        * Creating gold standards for precision/recall evaluation
         
   - title: Research Assistant
     company: University of Patras
     company_url: ''
-    company_logo: upatras_logo
-    location: California
-    date_start: '2019-01-01'
-    date_end: '2018-01-01'
+    company_logo: up_logo.png
+    location: Patras, GR
+    date_start: '2018-01-01'
+    date_end: '2019-01-01'
     description: Conducted research merging knowledge from the aread of lipidomics and statistical learning.
 
 design:
