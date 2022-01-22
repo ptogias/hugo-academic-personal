@@ -67,6 +67,8 @@ email: "ptogias@outlook.com"
 highlight_name: true
 ---
 
-Panagiotis is a proactive, results-driven individual with a passion for biomedical text mining and analysis utilizing statistical learning methodologies. He is well-versed in creating statistics driven pipelines in order to answer complex questions in a simple manner while maintaining data quality with the use of R programming language.
+Panagiotis is a proactive, results-driven researcher with a passion for utilizing statistical learning methodologies in biomedical information mining contexts. He is well-versed in creating statistics driven pipelines in order to answer complex questions in a simple manner while maintaining data quality with the use of R programming language.
+
+Currently a Clinical Data QA @ {{< staticref "https://www.causaly.com/" "newtab" >}}Causaly{{< /staticref >}}
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/PANAGIOTIS_TOGIAS_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
