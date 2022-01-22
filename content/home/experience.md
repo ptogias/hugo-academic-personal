@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Experience Milestones
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Clinical Data Quality Analyst
+    company: Causaly
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: causaly_logo_400x400
+    location: London (remote)
+    date_start: '2021-03-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Automating QA processes
+        * Providing feedback for NLP models outputs
+        * Creating gold standards for precision/recall eval
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Assistant
+    company: University of Patras
     company_url: ''
-    company_logo: org-x
+    company_logo: upatras_logo
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2019-01-01'
+    date_end: '2018-01-01'
+    description: Conducted research merging knowledge from the aread of lipidomics and statistical learning.
 
 design:
   columns: '2'
