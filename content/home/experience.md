@@ -25,7 +25,7 @@ experience:
   - title: Clinical Data Quality Analyst
     company: Causaly
     company_url: ''
-    company_logo: causaly_logo_400x400.png
+    company_logo: causaly_logo
     location: London, UK (remote)
     date_start: '2021-03-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Research Assistant
     company: University of Patras
     company_url: ''
-    company_logo: up_logo.png
+    company_logo: up_logo
     location: Patras, GR
     date_start: '2018-01-01'
     date_end: '2019-01-01'
