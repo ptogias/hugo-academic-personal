@@ -6,7 +6,7 @@ tags:
 date:
 
 # Optional external URL for project (replaces project detail page).
-external_link: " sofrito.shinyapps.io/search"
+external_link: "https://sofrito.shinyapps.io/search"
 
 image:
   caption: 
