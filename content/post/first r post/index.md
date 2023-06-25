@@ -7,9 +7,6 @@ summary: first test r post
 
 # Date published
 date: "2023-06-25"
-
-authors:
-- admin
 ---
 
 ## Overview
