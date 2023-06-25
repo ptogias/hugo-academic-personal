@@ -72,6 +72,6 @@ highlight_name: true
 
 ---
 
-I write code in R. \nAlways library(data.table); library(dplyr)
+I write code in R. Always library(data.table); library(dplyr)
 
-##### _2-D pie charts are terrible. That makes 3-D pie charts terrible to the 3/2 power. \n—Frank Harrell, R-help (April 2006)_
+##### _2-D pie charts are terrible. That makes 3-D pie charts terrible to the 3/2 power. —Frank Harrell, R-help (April 2006)_
