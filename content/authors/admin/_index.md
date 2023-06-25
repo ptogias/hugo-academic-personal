@@ -27,10 +27,10 @@ education:
   courses:
   - course: MSc in Informatics for Life Sciences
     institution: University of Patras
-    year: 2019
+    year:
   - course: BSc in Applied Informatics
     institution: Patras Institute of Technology
-    year: 2016
+    year:
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -67,8 +67,8 @@ email: "ptogias@outlook.com"
 highlight_name: true
 ---
 
-Panagiotis is a proactive, results-driven researcher with a passion for utilizing statistical learning methodologies in biomedical information mining contexts. He is well-versed in creating statistics driven pipelines in order to answer complex questions in a simple manner while maintaining data quality with the use of R programming language.
+I write code in R. Always library(data.table); library(dplyr).
 
-Currently a Clinical Data QA @ {{< staticref "https://www.causaly.com/" "newtab" >}}Causaly{{< /staticref >}}
+# Currently a Clinical Data QA @ {{< staticref "https://www.causaly.com/" "newtab" >}}Causaly{{< /staticref >}}
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/PANAGIOTIS_TOGIAS_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/PANAGIOTIS_TOGIAS_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
