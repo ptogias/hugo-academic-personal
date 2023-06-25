@@ -27,4 +27,6 @@ dt[V1 >= 1, .(two, three)]
 
 View(dt)
 
+dt[, .(n = .N, by = V2)]
+
 ```
