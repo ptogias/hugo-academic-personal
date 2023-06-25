@@ -65,10 +65,11 @@ email: "ptogias@outlook.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
----
-
-I write code in R. Always library(data.table); library(dplyr).
 
 # Currently a Clinical Data QA @ {{< staticref "https://www.causaly.com/" "newtab" >}}Causaly{{< /staticref >}}
 
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/PANAGIOTIS_TOGIAS_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+---
+
+I write code in R. Always library(data.table); library(dplyr).
