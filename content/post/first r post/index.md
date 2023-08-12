@@ -25,4 +25,8 @@ dt <- data.table(V1 = c(1,2,3),
 
 dt[V1 >= 1, .(two, three)]
 
+View(dt)
+
+dt[, .(n = .N, by = V2)]
+
 ```
