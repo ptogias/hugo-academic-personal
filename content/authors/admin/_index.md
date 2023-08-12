@@ -72,4 +72,4 @@ highlight_name: true
 
 ---
 
-R developer | Biomedicine
+R developer | Biomedical Informatics
